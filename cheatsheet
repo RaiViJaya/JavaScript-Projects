@@ -1,0 +1,8 @@
+-Today's task was quite simple, we need to sort the movements of transaction in ascending order from bottom to top, and we implemented this functionality with the help of sort().
+
+- In JavaScript, the sort() method is used to sort the elements of an array in place and returns the sorted array. By default, the sort() method sorts the elements as strings in alphabetical and ascending order.
+  However, if you need to sort elements in a different order or based on a specific criteria (e.g., numerical order), you can provide a compare function as an argument to the sort() method.
+
+// Additional information
+
+- The flat() method creates a new array with all sub-array elements concatenated into it recursively up to the specified depth. By default, it will flatten only one level. You can specify the depth as an argument if you want to flatten deeper levels.
